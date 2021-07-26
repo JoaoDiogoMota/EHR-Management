@@ -10,7 +10,7 @@ The developed system aims to manage Electronic Health Records (EHR) based on the
 |----------------- |               
 | [Gonçalo Pinto](https://github.com/GRP99)  	|
 | [João Diogo Mota](https://github.com/JoaoDiogoMota) 	|
-| [José Costa]  
+| José Costa  
 | [Nuno Costa](https://github.com/jnuno420)   	|
 
-> <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" > University of Minho, Software Engineering (3rd Year).
+> <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" > University of Minho, Software Engineering (4th Year).
